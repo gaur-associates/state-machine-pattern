@@ -1,0 +1,4 @@
+.vscode/*
+
+stateMachine/bin/*
+stateMachine/obj/*
